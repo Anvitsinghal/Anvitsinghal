@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anvit</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=440&lines=Engineering+student+from+India;Backend+Dev+%7C+MERN+Stack;Love+to+learn+new+tech!;Competitive+Programmer+%7C+DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=440&lines=Engineering+student+from+India;Backend+Dev+%7C+MERN+Stack;Love+to+learn+new+tech!;Competitive+Programmer" alt="Typing SVG" />
 </h3>
 
 ---
