@@ -1,3 +1,18 @@
+<div align="center">
+
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│                                                                               │
+│   ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██          │
+│   ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██          │
+│   ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██          │
+│   ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██                  │
+│    ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██          │
+│                                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 <h1 align="center">Hi 👋, I'm Anvit</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=440&lines=Engineering+student+from+India;Backend+Dev+%7C+MERN+Stack;Love+to+learn+new+tech!;Competitive+Programmer" alt="Typing SVG" />
@@ -27,29 +42,17 @@
 </p>
 
 ---
+## 💻 Tech Stack
 
-### 🛠️ Languages and Tools
+| Category | Skills and Icons |
+|----------|-----------------|
+| **Programming Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Backend Development** | ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) |
+| **Databases & Services** | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) |
+| **AI/ML Technologies** | ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40" height="40"/>
-</p>
-
-
----
 
 ### 📈 GitHub Stats & Streak
 
